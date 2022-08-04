@@ -19,3 +19,4 @@ let weather = {
         document.querySelector(".wind").innerText = "Wind speed: " + speed + "km/h";
     }
 }
+// weather.fetchWeather('hanoi');
